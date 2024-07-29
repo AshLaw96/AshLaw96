@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ash
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Full Stack Software Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
